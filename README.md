@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetyusufseymen&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetyusufseymen" /> </p>
 
 - 🔭 I’m currently working on **Android**
-- 
+
 - 🌱 I’m currently learning **Kotlin**
-- 
+
 - 📫 How to reach me **yusuf_seymen63@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
