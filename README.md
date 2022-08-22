@@ -2,6 +2,7 @@
 <h3 align="center">I have provided the necessary infrastructure to be an Android developer with the trainings I have completed and the applications I have developed. I know that my ability to find solutions to problems, my high level of motivation and being suitable for teamwork will take me one step ahead. I believe that I will be effective in business life, adapt to developments, and achieve great things with my enthusiasm and excitement. I dream of winning and living a better tomorrow with the new knowledge and experience I have gained in the coming years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetyusufseymen&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetyusufseymen" /> </p>
+- 🔭 I’m currently working on **Android**
 
 - 🌱 I’m currently learning **Kotlin**
 
